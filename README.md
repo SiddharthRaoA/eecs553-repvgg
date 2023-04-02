@@ -1,1 +1,1 @@
-# eecs553-repvgg
+# EECS 553 Project - MRepVGG
